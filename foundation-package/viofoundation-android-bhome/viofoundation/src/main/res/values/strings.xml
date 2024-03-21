@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="loading">Loading…</string>
+    <string name="whoops">Whoops!</string>
+    <string name="text_copied_message">Text copied to clipboard</string>
+    <string name="nothing_copied_message">Nothing to copy</string>
+    <string name="nothing_shared_message">Nothing to share</string>
+    <string name="copy_label">kommunikapp</string>
+</resources>
